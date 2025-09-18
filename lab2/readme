@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html LNG="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,inital-scale=1.0">
+    <title>HTML BASICS</title>
+<h1> my favorite websites</h1>
+</head>
+<body>
+<a herf="/home.html"> home </a><br>
+<a href="www.google.com" target="_blank" >click to google </a><br>
+    <a href="www.myntra.com target="_blank" >click to myntra </a> <br>
+    <a href= "www.bmw.in target="_blank">click to bmw </a><br>
+    <ul type="circle">
+        <li>
+<a href="https://www.google.com/?client=safari&channel=mac_bm" target="_blank"> click to google</a> </li><br>
+<li><a href="https://www.myntra.com/?utm_source=dms_google&utm_medium=dms_searchbrand_cpc&utm_campaign=dms_google_searchbrand_cpc_Search_Brand_Myntra_Brand_India_BM_TROAS_SOK_New&gad_source=1&gad_campaignid=20443628324&gbraid=0AAAAADoxBh5bcs5iCLHB6ASNugNxHWDwo&gclid=Cj0KCQjwuKnGBhD5ARIsAD19RsZNsJ87JqQHXxewovJORIwmiIKIxHWgqow9ljbGpf7sZT4qsjL7zy0aAvKkEALw_wcB" target="_blank"> click to myntra </a> </li>
+<li><a href="https://www.bmw.in/en/index.html" target="_blank"> click to bmw </a> </li><br>
+
+
+    </ul>
+    
+        
+
+
+</body>
